@@ -6,18 +6,20 @@ This folder contains my very first Python scripts as I begin my journey to becom
 
 ### 1. Currency Converter (`currency_calculator.py`)
 A script that takes user input for different currencies and converts them into USD.
-* **Currencies supported:** Colombian Pesos, Peruvian Soles, and Brazilian Reais.
-* **Key Skills:** Using `input()`, converting strings to `float`, and performing basic arithmetic.
+* **Key Skills:** Using `input()`, converting strings to `float`, and basic arithmetic.
 
 ### 2. Interactive Price Calculator (`bill_calculator.py`)
-A tool that calculates the total cost of items based on user-provided price and quantity.
-* **Key Features:** Handles decimal prices and whole-number quantities.
-* **Key Skills:** Understanding the difference between `float()` and `int()`, and using `input()` for dynamic interaction.
+A tool that calculates the total cost of items based on price and quantity.
+* **Key Skills:** Understanding the difference between `float()` and `int()`.
 
 ### 3. Core Data Explorer (`essentials.py`)
-A comprehensive script that organizes user information using all fundamental Python data structures.
-* **Key Features:** Stores and displays data using Lists, Tuples, Sets, and Dictionaries.
-* **Key Skills:** Managing different data types (int, float, string) and organizing them into structured collections for cleaner code.
+A script that organizes user information using all fundamental Python data structures.
+* **Key Skills:** Managing Lists, Tuples, Sets, and Dictionaries.
+
+### 4. Pirate Tracker (`pirate_tracker.py`)
+A dynamic data management system inspired by games like Blox Fruits. It allows users to add new characters and check power levels.
+* **Key Features:** Uses a **Hybrid Structure** (Dictionaries nested inside a List) to store complex data.
+* **Key Skills:** Appending new dictionaries to a list, using `len()` for error handling (preventing index crashes), and complex `if/else` logic.
 
 ## How to Run
 To run these scripts, make sure you have Python installed and run:
