@@ -21,6 +21,10 @@ A dynamic data management system inspired by games like Blox Fruits. It allows u
 * **Key Features:** Uses a **Hybrid Structure** (Dictionaries nested inside a List) to store complex data.
 * **Key Skills:** Appending new dictionaries to a list, using `len()` for error handling (preventing index crashes), and complex `if/else` logic.
 
+### 5. Digital Receipt Generator (`receipt_generator.py`)
+A streamlined tool that processes customer purchases and generates a formatted summary.
+* **Key Skills:** Using `.join()` to handle lists, mapping data with dictionaries, and applying conditional logic for discounts.
+
 ## How to Run
 To run these scripts, make sure you have Python installed and run:
 `python filename.py`
