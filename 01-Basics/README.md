@@ -25,6 +25,10 @@ A dynamic data management system inspired by games like Blox Fruits. It allows u
 A streamlined tool that processes customer purchases and generates a formatted summary.
 * **Key Skills:** Using `.join()` to handle lists, mapping data with dictionaries, and applying conditional logic for discounts.
 
+### 6. Automated List Ranker (`list_ranker.py`)
+A script that takes a collection of items and uses automation to rank and print them in a clean, ordered layout.
+* **Key Skills:** Mastering `for` loops, understanding how `range()` generates index sequences, and performing dynamic type conversion using `str()`.
+
 ## How to Run
 To run these scripts, make sure you have Python installed and run:
 `python filename.py`
