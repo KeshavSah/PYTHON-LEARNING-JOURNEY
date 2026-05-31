@@ -29,6 +29,10 @@ A streamlined tool that processes customer purchases and generates a formatted s
 A script that takes a collection of items and uses automation to rank and print them in a clean, ordered layout.
 * **Key Skills:** Mastering `for` loops, understanding how `range()` generates index sequences, and performing dynamic type conversion using `str()`.
 
+### 7. Multiplication Table Generator (`multiplier_gen.py`)
+A utility script that dynamically generates multiplication tables for any base number within a user-defined range.
+* **Key Skills:** Mastering `for` loops, leveraging `range(start, stop + 1)`, and implementing user-driven input processing.
+
 ## How to Run
 To run these scripts, make sure you have Python installed and run:
 `python filename.py`
