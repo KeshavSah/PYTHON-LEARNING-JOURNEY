@@ -1,6 +1,6 @@
 # 01 - Python Basics 🐍
 
-This folder contains my very first Python scripts as I begin my journey to becoming an AI Engineer.
+This folder contains my very first Python scripts as I begin my journey to becoming an AI Engineer.^_^
 
 ## Projects in this folder:
 
