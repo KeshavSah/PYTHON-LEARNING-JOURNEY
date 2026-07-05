@@ -13,6 +13,7 @@ else:
 
 package_contents = " & ".join(available_items)
 
+#To make it attractive.
 print(f"\n--- {shop_info['name']} ---")
 print(f"Customer: {name} ({status})")
 print(f"Items inside: {package_contents}")
