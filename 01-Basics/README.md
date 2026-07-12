@@ -33,6 +33,10 @@ A script that takes a collection of items and uses automation to rank and print 
 A utility script that dynamically generates multiplication tables for any base number within a user-defined range.
 * **Key Skills:** Mastering `for` loops, leveraging `range(start, stop + 1)`, and implementing user-driven input processing.
 
+### 8. Type and Instance Checker (`type_and_isinstance.py`)
+A beginner-friendly script that demonstrates how Python identifies data types and verifies object types.
+* **Key Skills:** Using the built-in `type()` and `isinstance()` functions to inspect and validate data types.
+
 ## How to Run
 To run these scripts, make sure you have Python installed and run:
 `python filename.py`
