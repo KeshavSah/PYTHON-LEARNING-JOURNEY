@@ -1,3 +1,6 @@
+#Just learned type and isinstance.
+#This is to show I understand these.
+
 name = "Cecillion"
 age = 20
 
