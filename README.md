@@ -8,7 +8,7 @@ To keep my progress clean and organized, my portfolio is divided into three main
 
 ## 📂 Repository Structure
 
-### 📁 01 - Basics (Ongoing)
+### 📁 01 - Basic (Ongoing)
 * My current focus. This folder contains my very first scripts, fundamental data structures, core logic gates, and automation loops.
 
 ### 📁 02 - Intermediate (Coming Soon)
